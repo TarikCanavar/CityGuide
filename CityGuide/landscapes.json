@@ -1,0 +1,3 @@
+{"landscapes":[{"name":"Saat Kulesi","city":"İzmir","district":"Buca","neighborhood":"Adatepe","street":"Hacı Bektaş Veli","doorNumber":3,"type":"MONUMENT" ,"fee":false},
+{"name":"Efes","city":"İzmir","district":"Buca","neighborhood":"Kuruçeşme","street":"Kurtuluş","doorNumber":5,"type":"NATURAL_WONDERS" ,"fee":true},
+{"name":"xxxxxx","city":"İzmir","district":"Bostanlı","neighborhood":"Sahil","street":"Barlar Sokağı","doorNumber":31,"type":"SANCTUARY" ,"fee":true}]}
